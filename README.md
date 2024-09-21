@@ -1,6 +1,7 @@
-## langraph-understanding
-****
--This repo is about learning basiscs of langraph and AI agents
-****
--lang1 is about basic ai agent using langraph
-lan2 is about integrating ai agent with tools
+# Learning Langraph and AI Agents
+
+- **Overview**: This repository is dedicated to learning the basics of Langraph and AI agents.
+  
+- **Projects**:
+  - **Lang1**: A basic AI agent utilizing Langraph.
+  - **Lang2**: Integration of an AI agent with various tools.
